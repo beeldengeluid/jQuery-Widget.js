@@ -63,7 +63,7 @@
     "@comunica/query-sparql": "^2.2.1",
     "@comunica/runner": "^2.0.3",
     "@rubensworks/solid-client-authn-browser": "^1.12.0",
-    "@triply/yasqe": "^4.2.23",
+    "@triply/yasqe": "^4.2.26",
     "@turf/centroid": "^6.5.0",
     "babel-loader": "^8.2.3",
     "file-loader": "^6.0.0",
