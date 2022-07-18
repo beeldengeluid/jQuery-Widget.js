@@ -169,6 +169,7 @@ require('leaflet/dist/images/marker-shadow.png');
         // Prettify SPARQL editors with YASQE
         if (YASQE && $query.hasClass('yasqe')) {
           $query.yasqe = YASQE.fromTextArea($query[0], {
+            ...YASQE.defaults,
             createShareLink: null,
             persistent: null,
           });
